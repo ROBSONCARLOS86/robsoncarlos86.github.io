@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1533330833,
+	"version": 1533474252,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,10 +49,7 @@
 		"images/gameover-sheet0.png",
 		"images/restart-sheet0.png",
 		"images/start-sheet0.png",
-		"images/btnmenu-sheet0.png",
-		"images/tiledbackground.png",
-		"images/tiledbackground3.png",
-		"images/sprite5-sheet0.png",
+		"images/menugameover-sheet0.png",
 		"media/a.ogg",
 		"media/b.ogg",
 		"media/c.ogg",

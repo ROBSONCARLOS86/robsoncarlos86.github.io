@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1534286126,
+	"version": 1534289091,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,7 +28,6 @@
 		"images/frame_personagem-sheet1.png",
 		"images/frame_personagem-sheet2.png",
 		"images/frame_personagem-sheet3.png",
-		"images/frame_personagem-sheet4.png",
 		"images/imgfundocoqueiro2-sheet0.png",
 		"images/sprite12-sheet0.png",
 		"images/sprite11-sheet0.png",

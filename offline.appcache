@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1534289091
+#1534350321
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -7,6 +7,7 @@ offlineClient.js
 images/sonalfa-sheet0.png
 images/btndislike-sheet0.png
 images/sf3.png
+images/sf2.png
 images/btnlike-sheet0.png
 images/sprite2-sheet0.png
 images/sf5.png
@@ -48,6 +49,7 @@ images/gameover-sheet0.png
 images/restart-sheet0.png
 images/start-sheet0.png
 images/menugameover-sheet0.png
+images/sprite4-sheet0.png
 media/a.ogg
 media/b.ogg
 media/c.ogg
@@ -78,6 +80,12 @@ media/8-bit-puzzler.ogg
 media/puzzle-dreams-3.ogg
 media/raining%20bits%20lowfi.ogg
 media/15axel%20foley.ogg
+media/som%20maquina%20de%20escrever.ogg
+media/30%20buzzer%20curto.ogg
+media/42%20%20campainha,%20ideia%20curta.ogg
+media/7%20nao.ogg
+media/bolha.ogg
+media/32%20whiff%20curto.ogg
 icon-16.png
 icon-32.png
 icon-114.png
